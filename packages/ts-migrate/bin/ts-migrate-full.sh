@@ -51,11 +51,6 @@ else
 fi
 
 function maybe_commit() {
-  cd $frontend_folder
-  if [[ `git status --porcelain` ]]
-  then
-    git add . && git commit "$@"
-  fi
   cd -
 }
 

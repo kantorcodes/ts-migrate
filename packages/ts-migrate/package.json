@@ -1,5 +1,5 @@
 {
-  "name": "ts-migrate",
+  "name": "tsx-migrate",
   "version": "0.1.13",
   "description": "A tool for migrating frontend application from JavaScript to TypeScript",
   "directories": {
