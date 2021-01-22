@@ -24,11 +24,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/ts-migrate.git",
+    "url": "git+https://github.com/kantorcodes/ts-migrate.git",
     "directory": "packages/ts-migrate"
   },
   "bugs": {
-    "url": "https://github.com/airbnb/ts-migrate/issues"
+    "url": "https://github.com/kantorcodes/ts-migrate/issues"
   },
   "scripts": {
     "test": "jest --config jest-config.json",
@@ -44,7 +44,7 @@
     "John Haytko (https://github.com/jjjjhhhhhh)",
     "Joe Lencioni (https://github.com/lencioni)"
   ],
-  "homepage": "https://github.com/airbnb/ts-migrate#readme",
+  "homepage": "https://github.com/kantorcodes/ts-migrate#readme",
   "license": "MIT",
   "dependencies": {
     "create-jest-runner": "^0.5.3",

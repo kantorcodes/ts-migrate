@@ -3,11 +3,8 @@
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/ts-migrate.git",
+    "url": "git+https://github.com/kantorcodes/ts-migrate.git",
     "directory": "packages/ts-migrate-server"
-  },
-  "bugs": {
-    "url": "https://github.com/airbnb/ts-migrate/issues"
   },
   "private": true,
   "description": "ts-migrate monorepo",
@@ -50,7 +47,7 @@
     "packages/*"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/airbnb/ts-migrate#readme",
+  "homepage": "https://github.com/kantorcodes/ts-migrate#readme",
   "main": ".eslintrc.js",
   "dependencies": {
     "abab": "^2.0.4",

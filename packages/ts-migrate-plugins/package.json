@@ -21,11 +21,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/ts-migrate.git",
+    "url": "https://github.com/kantorcodes/ts-migrate.git",
     "directory": "packages/ts-migrate-plugins"
   },
   "bugs": {
-    "url": "https://github.com/airbnb/ts-migrate/issues"
+    "url": "https://github.com/kantorcodes/ts-migrate/issues"
   },
   "scripts": {
     "test": "jest --config jest-config.json",
@@ -56,7 +56,7 @@
       "url": "https://github.com/lencioni"
     }
   ],
-  "homepage": "https://github.com/airbnb/ts-migrate#readme",
+  "homepage": "https://github.com/kantorcodes/ts-migrate#readme",
   "license": "MIT",
   "dependencies": {
     "eslint": "^7.14.0",
