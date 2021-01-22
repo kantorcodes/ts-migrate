@@ -6,7 +6,6 @@
     "url": "git+https://github.com/kantorcodes/ts-migrate.git",
     "directory": "packages/ts-migrate-server"
   },
-  "private": true,
   "description": "ts-migrate monorepo",
   "scripts": {
     "bootstrap": "lerna bootstrap",
