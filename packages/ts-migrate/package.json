@@ -1,5 +1,5 @@
 {
-  "name": "tsx-migrate",
+  "name": "@kantorcodes/tsx-migrate",
   "version": "0.1.13",
   "description": "A tool for migrating frontend application from JavaScript to TypeScript",
   "directories": {
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/ts-migrate.git",
+    "url": "git+https://github.com/airbnb/ts-migrate.git",
     "directory": "packages/ts-migrate"
   },
   "bugs": {
@@ -38,26 +38,11 @@
     "clean": "rm -rf build"
   },
   "contributors": [
-    {
-      "name": "Brie Bunge",
-      "url": "https://github.com/brieb"
-    },
-    {
-      "name": "Sergii Rudenko",
-      "url": "https://github.com/Rudeg"
-    },
-    {
-      "name": "Elliot Sachs",
-      "url": "https://github.com/elliotsa"
-    },
-    {
-      "name": "John Haytko",
-      "url": "https://github.com/jjjjhhhhhh"
-    },
-    {
-      "name": "Joe Lencioni",
-      "url": "https://github.com/lencioni"
-    }
+    "Brie Bunge (https://github.com/brieb)",
+    "Sergii Rudenko (https://github.com/Rudeg)",
+    "Elliot Sachs (https://github.com/elliotsa)",
+    "John Haytko (https://github.com/jjjjhhhhhh)",
+    "Joe Lencioni (https://github.com/lencioni)"
   ],
   "homepage": "https://github.com/airbnb/ts-migrate#readme",
   "license": "MIT",
@@ -77,5 +62,6 @@
     "jest": "^26.4.2",
     "react": "^16.12.0"
   },
-  "gitHead": "7acf6067f15c9bb367cda9c47fcfb4203dcc54f3"
+  "main": "index.js",
+  "author": "Michael Kantor"
 }
